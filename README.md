@@ -1,6 +1,6 @@
 ### 𝐇𝐞𝐥𝐥𝐨 Everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 <!-- PROJECT LOGO -->
-[](https://github.com/SwapnilChand/think/blob/master/think%20%E2%80%93%20activity_main.xml%20%5Bthink.app%5D%2025-05-2021%2004_05_30%20PM%20(2).png)
+[](https://raw.githubusercontent.com/SwapnilChand/think/master/think%20%E2%80%93%20activity_main.xml%20%5Bthink.app%5D%2025-05-2021%2004_05_30%20PM%20(2).png)
 <br />
 <p align="center">
   <h3 align="center">Submission for Wedmist 24hr app dev challenge.</h3>
