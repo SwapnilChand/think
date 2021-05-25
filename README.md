@@ -80,5 +80,5 @@ Contributions are what make the open source community such an amazing place to b
 Swapnil Chand - [@Swapnil43128204](https://twitter.com/Swapnil43128204) - swapnilchand51@gmail.com
 
 ## Demo
-[think.](./think/app-debug.apk)
+[think.](https://github.com/SwapnilChand/think/blob/master/app-debug.apk)
 
