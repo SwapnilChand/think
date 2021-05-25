@@ -4,7 +4,7 @@
 <p align="center">
   <h1 align="center">think.</h1>
 </p>
-#Submission for Wedmist Internship 24 hr challenge
+# Submission for Wedmist Internship 24 hr challenge
 
 
 <!-- TABLE OF CONTENTS -->
