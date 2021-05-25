@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">think.</h3>
+  <h1 align="center">think.</h1>
 </p>
 #Submission for Wedmist Internship 24 hr challenge
 
@@ -31,7 +31,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A simple quiz android app.
+A simple quiz android app on predicting mental mood of the user.
 
 ## Inspirations
 * www.headspace.com
