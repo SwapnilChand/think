@@ -54,7 +54,8 @@ A simple quiz android app on predicting mental mood of the user.
 
 
 ## Challenges you faced
-* Using Github and Git was the biggest challenge
+* Using Github and Git was the biggest challenge.
+* Android Studio was very challenging too.
 
 ## Future Improvements
 * A lot of improvements and changes will be coming soon. So ,stay tuned ;).
