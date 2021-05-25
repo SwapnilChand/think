@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">think</h3>
+  <h3 align="center">think.</h3>
 </p>
 #Submission for Wedmist Internship 24 hr challenge
 
@@ -31,12 +31,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A simple website to surprise my father.
-His birthday is on 10th of May.
+A simple quiz android app.
 
 ## Inspirations
 * www.headspace.com
-* plumvillage.org
+* www.plumvillage.org
 
 
 ## Built With
@@ -63,7 +62,7 @@ I will be working further on this project and try to make this better.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated :) **.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated :)**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
