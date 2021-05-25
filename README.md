@@ -4,7 +4,7 @@
 <p align="center">
   <img src ="https://raw.githubusercontent.com/SwapnilChand/think/master/think%20%E2%80%93%20activity_main.xml%20%5Bthink.app%5D%2025-05-2021%2004_05_30%20PM%20(2).png">
 <br />
-  <h3 align="center">Submission for Wedmist 24hr app dev challenge.</h3>
+  <h3 align="center">Submission for Wedmist (Internship) 24hr App Dev challenge.</h3>
 </p>
 
 
