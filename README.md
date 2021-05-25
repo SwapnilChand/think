@@ -59,6 +59,7 @@ A simple quiz android app on predicting mental mood of the user.
 
 ## Future Improvements
 * A lot of improvements and changes will be coming soon. So ,stay tuned ;).
+* Animations are to be added too.
 
 ## Usage
 I will be working further on this project and try to make this better.
