@@ -20,7 +20,7 @@
       </ul>
     </li>
     
-   <li><a href="#what-you-learned">What you learned (languages and tech tools)</a></li>
+   <li><a href="#what-you-learned">What you learned</a></li>
      <li><a href="#challenges-you-faced">Challenges you faced</a></li>
     <li><a href="#future-improvements">Future Improvements</a></li>
     <li><a href="#usage">Usage</a></li>
@@ -49,7 +49,8 @@ A simple quiz android app on predicting mental mood of the user.
 
 ## What you learned
 * Some basics of app development.
-* Getting familiar with GitHub.
+* Java OOPS.
+* Getting familiar with GitHub and Android Studio.
 
 
 
