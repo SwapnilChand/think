@@ -3,8 +3,9 @@
 <br />
 <p align="center">
   <h1 align="center">think.</h1>
+  <br>
+  <h3 align="center">Submission for Wedmist 24hr app dev challenge.</h3>
 </p>
-# Submission for Wedmist Internship 24 hr challenge
 
 
 <!-- TABLE OF CONTENTS -->
