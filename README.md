@@ -1,6 +1,6 @@
 ### 𝐇𝐞𝐥𝐥𝐨 Everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 <!-- PROJECT LOGO -->
-<img src ="https://raw.githubusercontent.com/SwapnilChand/think/master/think%20%E2%80%93%20activity_main.xml%20%5Bthink.app%5D%2025-05-2021%2004_05_30%20PM%20(2).png" width="250px" height="100px">
+<img src ="https://raw.githubusercontent.com/SwapnilChand/think/master/think%20%E2%80%93%20activity_main.xml%20%5Bthink.app%5D%2025-05-2021%2004_05_30%20PM%20(2).png" width="250px" height="100px" align="center">
 <br />
 <p align="center">
   <h3 align="center">Submission for Wedmist 24hr app dev challenge.</h3>
@@ -81,5 +81,6 @@ Swapnil Chand - [@Swapnil43128204](https://twitter.com/Swapnil43128204) - swapni
 ## Demo
 [think.](https://github.com/SwapnilChand/think/blob/master/app-debug.apk)
 
-[](https://github.com/SwapnilChand/think/blob/master/think%20%E2%80%93%20activity_main.xml%20%5Bthink.app%5D%2025-05-2021%2004_05_30%20PM.png)
+
+<img src="https://github.com/SwapnilChand/think/blob/master/think%20%E2%80%93%20activity_main.xml%20%5Bthink.app%5D%2025-05-2021%2004_05_30%20PM.png" width="250px" height="100px" align="center">
 
