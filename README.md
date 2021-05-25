@@ -20,13 +20,13 @@
       </ul>
     </li>
     
-   <li><a href="#what-you-learned-(languages-and-tech-tools)">What you learned (languages and tech tools)</a></li>
+   <li><a href="#what-you-learned">What you learned (languages and tech tools)</a></li>
      <li><a href="#challenges-you-faced">Challenges you faced</a></li>
     <li><a href="#future-improvements">Future Improvements</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#demo">Contact</a></li>
+    <li><a href="#demo">Demo</a></li>
   </ol>
 </details>
 
@@ -47,7 +47,7 @@ A simple quiz android app on predicting mental mood of the user.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-## What you learned (languages and tech tools)
+## What you learned
 * Some basics of app development.
 * Getting familiar with GitHub.
 
