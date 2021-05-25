@@ -1,8 +1,9 @@
 ### 𝐇𝐞𝐥𝐥𝐨 Everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 <!-- PROJECT LOGO -->
-<img src ="https://raw.githubusercontent.com/SwapnilChand/think/master/think%20%E2%80%93%20activity_main.xml%20%5Bthink.app%5D%2025-05-2021%2004_05_30%20PM%20(2).png" width="250px" height="100px" align="middle">
-<br />
+
 <p align="center">
+  <img src ="https://raw.githubusercontent.com/SwapnilChand/think/master/think%20%E2%80%93%20activity_main.xml%20%5Bthink.app%5D%2025-05-2021%2004_05_30%20PM%20(2).png" width="250px" height="100px">
+<br />
   <h3 align="center">Submission for Wedmist 24hr app dev challenge.</h3>
 </p>
 
@@ -18,6 +19,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    
    <li><a href="#what-you-learned-(languages-and-tech-tools)">What you learned (languages and tech tools)</a></li>
      <li><a href="#challenges-you-faced">Challenges you faced</a></li>
     <li><a href="#future-improvements">Future Improvements</a></li>
