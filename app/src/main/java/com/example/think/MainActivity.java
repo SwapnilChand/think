@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        ImageButton  startBtn = findViewById(R.id.start);
+        ImageButton startBtn = findViewById(R.id.start);
         startBtn.setOnClickListener(v -> {
             Intent q1Intent = new Intent(MainActivity.this, QuestionsActivity.class);
             startActivity(q1Intent);
