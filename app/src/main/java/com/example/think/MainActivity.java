@@ -1,10 +1,10 @@
 package com.example.think;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.ImageButton;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         ImageButton startBtn = findViewById(R.id.start);
         startBtn.setOnClickListener(v -> {
-            Intent q1Intent = new Intent(MainActivity.this, QuestionsActivity.class);
+            Intent q1Intent = new Intent(MainActivity.this, LoginPage.class);
             startActivity(q1Intent);
         });
         ImageButton exitBtn = findViewById(R.id.exit);

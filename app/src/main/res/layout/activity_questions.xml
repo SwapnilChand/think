@@ -15,10 +15,10 @@
         android:background="@color/colorPrimary"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.059">
+        app:layout_constraintVertical_bias="0.062">
 
         <TextView
             android:layout_width="match_parent"
@@ -32,8 +32,8 @@
 
     <LinearLayout
         android:id="@+id/optionsContainer"
-        android:layout_width="362dp"
-        android:layout_height="383dp"
+        android:layout_width="365dp"
+        android:layout_height="351dp"
         android:background="@color/white"
         android:orientation="vertical"
         android:padding="16dp"
@@ -113,10 +113,10 @@
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.937"
+        app:layout_constraintHorizontal_bias="0.75"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.18" />
+        app:layout_constraintVertical_bias="0.154" />
 
     <Button
         android:id="@+id/back"
@@ -133,10 +133,12 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/optionsContainer"
-        app:layout_constraintVertical_bias="0.264" />
+        app:layout_constraintVertical_bias="0.284" />
 
     <Button
         android:id="@+id/next"
+        android:enabled="false"
+        android:alpha="0.7"
         android:layout_width="wrap_content"
         android:layout_height="50dp"
         android:layout_marginStart="16dp"
