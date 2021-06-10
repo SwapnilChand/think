@@ -10,6 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Think">
         <activity android:name=".QuestionsActivity"></activity>
+        <activity android:name=".LoginPage"></activity>
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
